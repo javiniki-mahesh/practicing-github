@@ -5,3 +5,5 @@
 #### modified directly in git (so files of test.py and app.py present or not)
 
 ### From cloned repo
+
+### understanding `fetch`, `merge` and `pull`
